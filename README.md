@@ -5,8 +5,8 @@
 
 ```Shell
 cd ~/Desktop  # 进入～/Desktop目录
-chmod +x desktop.sh  # 对脚本赋予可执行权限
-./ desktop.sh  # 运行
+chmod +x Desktop.sh  # 对脚本赋予可执行权限
+./ Desktop.sh  # 运行
 ```
 
 之后跟着终端提示进行输入
